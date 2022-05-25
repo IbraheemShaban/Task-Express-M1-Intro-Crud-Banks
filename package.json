@@ -1,0 +1,26 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "In this task, you will create a banking API with the basic `CRUD` operations.",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.15.1",
+    "nodemon": "^2.0.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IbraheemShaban/Task-Express-M1-Intro-Crud-Banks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IbraheemShaban/Task-Express-M1-Intro-Crud-Banks/issues"
+  },
+  "homepage": "https://github.com/IbraheemShaban/Task-Express-M1-Intro-Crud-Banks#readme"
+}
